@@ -19,13 +19,13 @@
     color:white !important;
 }
 
-.cotainer{
-    padding-left: 10%;
-    padding-right: 10%;
-}
+/* .cotainer{
+    padding-left: 10px;
+    padding-right: 10px;
+} */
 
 .jumbotron{
-    background-image: url(/assets/jumbotron.png);
+    background-image: url(../../assets/jumbotron.png);
     background-size: cover;
     height: 480px;
     text-align: center;
